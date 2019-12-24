@@ -3,7 +3,7 @@ layout: post
 title:  "Handling a BreakUp"
 categories: [ Relationships ]
 image: "https://drive.google.com/open?id=1mJHXTeqYYxihJ9-RGmZwxSZYwZM2mtpi"
-author: arvind
+author: Arvind
 tags: [sticky , featured ]
 ---
 This is going to be a pretty tough time for you. You are hurt after a relationship which either you ended,
