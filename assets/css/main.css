@@ -40,7 +40,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Lato"
+  --font-family-sans-serif: "Lato", sans-serif;
   --font-family-monospace: "Lato", sans-serif; }
 
 *,
@@ -7082,7 +7082,7 @@ button.bg-lightblue:focus {
     margin-left: auto !important; } }
 
 .text-monospace {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  font-family: "Lato", sans-serif; }
 
 .text-justify {
   text-align: justify !important; }
