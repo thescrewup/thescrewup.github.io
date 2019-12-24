@@ -1,7 +1,7 @@
 # Site
 name: 'The ScrewUp'
 description: 'The Home of The ScrewUp, where you get the best ways to do normal stuff.'
-logo: 'assets/images/thescrewupsmall.png'
+logo: assets/images/thescrewupsmall.png
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
