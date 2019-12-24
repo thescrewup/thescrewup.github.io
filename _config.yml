@@ -1,7 +1,7 @@
 # Site
 name: 'The ScrewUp'
 description: 'The Home of The ScrewUp, where you get the best ways to do normal stuff.'
-logo: 'assets/images/thescrewupsmall.png'
+logo: "assets/images/thescrewupsmall.png"
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
@@ -22,7 +22,7 @@ authors:
     Arvind:
       name:           Arvind
       site:           https://arvindvenkat.github.io/
-      avatar:         '/assets/images/avatar.jpg'
+      avatar:         "/assets/images/avatar.jpg"
       bio:            "Hi, I am Arvind. I like my T shirt White and Coffee Black."
       email:          arvindvenkat17@gmail.com
       twitter:        https://twitter.com/arv_ven
