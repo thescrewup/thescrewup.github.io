@@ -43,8 +43,7 @@ defaults:
       path: "_pages"
     values:
       layout: page
-      author: Arvind
-      avatar: /assets/images/avatar.png
+      
 # Syntax
 markdown: kramdown
 highlighter: rouge
