@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Arvind:
       name:           Arvind
       site:           https://arvindvenkat.github.io
       avatar:         /assets/images/avatar.png
