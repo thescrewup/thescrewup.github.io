@@ -18,4 +18,9 @@ where your relationship is rock solid. You're just killing yourself doing that.
 <br>
 Contrary to belief, getting out of a relationship doesn't actually take much time. At best, 3 days.
 It is the part leading to you accepting that the relationship is no more, that takes all the time.
+So, if you are still hung up on someone, or feel sad, or depressed or even get Anxiety Attacks, that just
+tells you how much you loved the person, and how much you wanted to keep the Relationship alive.
+<br>You did good <br>
+You have to let go of the Relationship, cause, no matter how hard you try to hold onto it, It has already gone.
+<br>
 Good luck Screw Up!
