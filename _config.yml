@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
 email: 'donatetothescrewup@gmail.com'
-mailchimp-list: ''
+mailchimp-list: 'a008b7520b'
 
 include: ["_pages"]
 permalink: /:title/
