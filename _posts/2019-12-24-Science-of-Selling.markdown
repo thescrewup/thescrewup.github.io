@@ -22,7 +22,7 @@ at the end of the day, it is just plain selling.
 There have been several great salesmen (women included) throughout human history. You'd find plenty of 
 blogs with those examples illustrated, that's not what we do here. Instead, We go for the Sales Formula directly.
 
-<br><br><br><br> <b> KYC!</b>
+<br><br> <b> KYC!</b>
 <br><br>
 Any sale would require you to understand your Customer first.
 Get to know the bloody customer for god's sake! Get to know what the customer wants, and also keep in mind
