@@ -2,10 +2,12 @@
 layout: post
 title:  "Handling a BreakUp"
 categories: [ Relationships ]
-image: "https://drive.google.com/uc?id=1btmZdV9INDh2p7cURYUd2HmRQvpVgcQ_"
 author: Arvind
+image: "https://drive.google.com/uc?id=1btmZdV9INDh2p7cURYUd2HmRQvpVgcQ_"
 tags: [sticky , featured ]
----
+
+--- 
+
 This is going to be a pretty tough time for you. You are hurt after a relationship which either you ended,
 or, were forced out of because of it's toxicity. No amount of pain is ever going to measure up to it,
 and you'd not want to listen to anyone. Fuck them. You don't have to listen to anyone's sermons now.
