@@ -2,7 +2,7 @@
 layout: post
 title:  "Handling a BreakUp"
 categories: [ Relationships ]
-image: "https://drive.google.com/file/d/1btmZdV9INDh2p7cURYUd2HmRQvpVgcQ_/view?usp=sharing"
+image: "https://drive.google.com/uc?id=1btmZdV9INDh2p7cURYUd2HmRQvpVgcQ_"
 author: Arvind
 tags: [sticky , featured ]
 ---
