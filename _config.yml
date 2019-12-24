@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Arvind
       avatar: /assets/images/avatar.png
       
   # all pages
@@ -43,7 +43,8 @@ defaults:
       path: "_pages"
     values:
       layout: page
-      
+      author: Arvind
+      avatar: /assets/images/avatar.png
 # Syntax
 markdown: kramdown
 highlighter: rouge
