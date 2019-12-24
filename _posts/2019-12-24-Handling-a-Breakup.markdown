@@ -4,7 +4,7 @@ title:  "Handling a BreakUp"
 categories: [ Relationships ]
 image: "https://unsplash.com/photos/E8H76nY1v6Q"
 author: Arvind
-tags: [sticky]
+tags: [sticky , featured ]
 ---
 This is going to be a pretty tough time for you. You are hurt after a relationship which either you ended,
 or, were forced out of because of it's toxicity. No amount of pain is ever going to measure up to it,
