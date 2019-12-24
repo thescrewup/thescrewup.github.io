@@ -3,7 +3,7 @@ layout: post
 title:  "The Science of Selling"
 categories: [ Career , Sales ]
 author: Arvind
-image: "https://photos.app.goo.gl/6smonkwymzGA3Hr19"
+image: "https://lh3.googleusercontent.com/H3O5Qs9H2watgWqcUgocEI2nnpcM-3mQePVFYG8PJfuu2e7M53ZEuCLam-DnyKmkzdzfRwOYC8VBcT4ByynQN8SpQs4GOPuXPiRCvAB0--paCnBWsfuapCZjvO83WDNjjUE5mlbc=w2400"
 tags: [ featured ]
 
 --- 
