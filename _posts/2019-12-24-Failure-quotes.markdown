@@ -3,7 +3,7 @@ layout: post
 title:  "Facing Failure"
 categories: [ Failure ]
 author: Arvind
-image: "https://drive.google.com/uc?id=1TPbnPS2IkTwAlkNsS8mI_mtDWSAL3HU-""
+image: "https://drive.google.com/uc?id=1TPbnPS2IkTwAlkNsS8mI_mtDWSAL3HU-"
 tags: [ featured ]
 
 --- 
